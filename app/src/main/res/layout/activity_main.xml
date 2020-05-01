@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/main_container"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:background="@drawable/backgr"
+    android:gravity="center"
+    tools:context=".CarnivalActivity">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/height_card"
+        android:gravity="center"
+        android:orientation="horizontal">
+        <ImageView
+            android:id="@+id/im11"
+            android:layout_width="@dimen/witdh_card"
+            android:layout_height="@dimen/height_card"
+            android:src="@drawable/close_fruit" />
+        <ImageView
+            android:id="@+id/im12"
+            android:layout_width="@dimen/witdh_card"
+            android:layout_height="@dimen/height_card"
+            android:src="@drawable/close_fruit" />
+        <ImageView
+            android:id="@+id/im13"
+            android:layout_width="@dimen/witdh_card"
+            android:layout_height="@dimen/height_card"
+            android:src="@drawable/close_fruit" />
+        <ImageView
+            android:id="@+id/im14"
+            android:layout_width="@dimen/witdh_card"
+            android:layout_height="@dimen/height_card"
+            android:src="@drawable/close_fruit" />
+        <ImageView
+            android:id="@+id/im15"
+            android:layout_width="@dimen/witdh_card"
+            android:layout_height="@dimen/height_card"
+            android:src="@drawable/close_fruit" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal">
+        <ImageView
+            android:id="@+id/im21"
+            android:layout_width="@dimen/witdh_card"
+            android:layout_height="@dimen/height_card"
+            android:src="@drawable/close_fruit" />
+        <ImageView
+            android:id="@+id/im22"
+            android:layout_width="@dimen/witdh_card"
+            android:layout_height="@dimen/height_card"
+            android:src="@drawable/close_fruit" />
+        <ImageView
+            android:id="@+id/im23"
+            android:layout_width="@dimen/witdh_card"
+            android:layout_height="@dimen/height_card"
+            android:src="@drawable/close_fruit" />
+        <ImageView
+            android:id="@+id/im24"
+            android:layout_width="@dimen/witdh_card"
+            android:layout_height="@dimen/height_card"
+            android:src="@drawable/close_fruit" />
+        <ImageView
+            android:id="@+id/im25"
+            android:layout_width="@dimen/witdh_card"
+            android:layout_height="@dimen/height_card"
+            android:src="@drawable/close_fruit" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal">
+        <ImageView
+            android:id="@+id/im31"
+            android:layout_width="@dimen/witdh_card"
+            android:layout_height="@dimen/height_card"
+            android:src="@drawable/close_fruit" />
+        <ImageView
+            android:id="@+id/im32"
+            android:layout_width="@dimen/witdh_card"
+            android:layout_height="@dimen/height_card"
+            android:src="@drawable/close_fruit" />
+        <ImageView
+            android:id="@+id/im33"
+            android:layout_width="@dimen/witdh_card"
+            android:layout_height="@dimen/height_card"
+            android:src="@drawable/close_fruit" />
+        <ImageView
+            android:id="@+id/im34"
+            android:layout_width="@dimen/witdh_card"
+            android:layout_height="@dimen/height_card"
+            android:src="@drawable/close_fruit" />
+        <ImageView
+            android:id="@+id/im35"
+            android:layout_width="@dimen/witdh_card"
+            android:layout_height="@dimen/height_card"
+            android:src="@drawable/close_fruit" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal">
+        <ImageView
+            android:id="@+id/im41"
+            android:layout_width="@dimen/witdh_card"
+            android:layout_height="@dimen/height_card"
+            android:src="@drawable/close_fruit" />
+        <ImageView
+            android:id="@+id/im42"
+            android:layout_width="@dimen/witdh_card"
+            android:layout_height="@dimen/height_card"
+            android:src="@drawable/close_fruit" />
+        <ImageView
+            android:id="@+id/im43"
+            android:layout_width="@dimen/witdh_card"
+            android:layout_height="@dimen/height_card"
+            android:src="@drawable/close_fruit" />
+        <ImageView
+            android:id="@+id/im44"
+            android:layout_width="@dimen/witdh_card"
+            android:layout_height="@dimen/height_card"
+            android:src="@drawable/close_fruit" />
+        <ImageView
+            android:id="@+id/im45"
+            android:layout_width="@dimen/witdh_card"
+            android:layout_height="@dimen/height_card"
+            android:src="@drawable/close_fruit" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal">
+        <ImageView
+            android:id="@+id/im51"
+            android:layout_width="@dimen/witdh_card"
+            android:layout_height="@dimen/height_card"
+            android:src="@drawable/close_fruit" />
+        <ImageView
+            android:id="@+id/im52"
+            android:layout_width="@dimen/witdh_card"
+            android:layout_height="@dimen/height_card"
+            android:src="@drawable/close_fruit" />
+        <ImageView
+            android:id="@+id/im53"
+            android:layout_width="@dimen/witdh_card"
+            android:layout_height="@dimen/height_card"
+            android:src="@drawable/close_fruit" />
+        <ImageView
+            android:id="@+id/im54"
+            android:layout_width="@dimen/witdh_card"
+            android:layout_height="@dimen/height_card"
+            android:src="@drawable/close_fruit" />
+        <ImageView
+            android:id="@+id/im55"
+            android:layout_width="@dimen/witdh_card"
+            android:layout_height="@dimen/height_card"
+            android:src="@drawable/close_fruit" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal">
+        <ImageView
+            android:id="@+id/im61"
+            android:layout_width="@dimen/witdh_card"
+            android:layout_height="@dimen/height_card"
+            android:src="@drawable/close_fruit" />
+        <ImageView
+            android:id="@+id/im62"
+            android:layout_width="@dimen/witdh_card"
+            android:layout_height="@dimen/height_card"
+            android:src="@drawable/close_fruit" />
+        <ImageView
+            android:id="@+id/im63"
+            android:layout_width="@dimen/witdh_card"
+            android:layout_height="@dimen/height_card"
+            android:src="@drawable/close_fruit" />
+        <ImageView
+            android:id="@+id/im64"
+            android:layout_width="@dimen/witdh_card"
+            android:layout_height="@dimen/height_card"
+            android:src="@drawable/close_fruit" />
+        <ImageView
+            android:id="@+id/im65"
+            android:layout_width="@dimen/witdh_card"
+            android:layout_height="@dimen/height_card"
+            android:src="@drawable/close_fruit" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal">
+        <ImageView
+            android:id="@+id/im71"
+            android:layout_width="@dimen/witdh_card"
+            android:layout_height="@dimen/height_card"
+            android:src="@drawable/close_fruit" />
+        <ImageView
+            android:id="@+id/im72"
+            android:layout_width="@dimen/witdh_card"
+            android:layout_height="@dimen/height_card"
+            android:src="@drawable/close_fruit" />
+        <ImageView
+            android:id="@+id/im73"
+            android:layout_width="@dimen/witdh_card"
+            android:layout_height="@dimen/height_card"
+            android:src="@drawable/close_fruit" />
+        <ImageView
+            android:id="@+id/im74"
+            android:layout_width="@dimen/witdh_card"
+            android:layout_height="@dimen/height_card"
+            android:src="@drawable/close_fruit" />
+        <ImageView
+            android:id="@+id/im75"
+            android:layout_width="@dimen/witdh_card"
+            android:layout_height="@dimen/height_card"
+            android:src="@drawable/close_fruit" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal">
+        <ImageView
+            android:id="@+id/im81"
+            android:layout_width="@dimen/witdh_card"
+            android:layout_height="@dimen/height_card"
+            android:src="@drawable/close_fruit" />
+        <ImageView
+            android:id="@+id/im82"
+            android:layout_width="@dimen/witdh_card"
+            android:layout_height="@dimen/height_card"
+            android:src="@drawable/close_fruit" />
+        <ImageView
+            android:id="@+id/im83"
+            android:layout_width="@dimen/witdh_card"
+            android:layout_height="@dimen/height_card"
+            android:src="@drawable/close_fruit" />
+        <ImageView
+            android:id="@+id/im84"
+            android:layout_width="@dimen/witdh_card"
+            android:layout_height="@dimen/height_card"
+            android:src="@drawable/close_fruit" />
+        <ImageView
+            android:id="@+id/im85"
+            android:layout_width="@dimen/witdh_card"
+            android:layout_height="@dimen/height_card"
+            android:src="@drawable/close_fruit" />
+    </LinearLayout>
+</LinearLayout>
